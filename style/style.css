@@ -1,0 +1,45 @@
+.espaco{
+    margin-top:1%;
+    margin-left: 2%;
+}
+.espaco-top{
+    margin-top: 2%;
+}
+.espaco-foto{
+    margin-top: 3%;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:#5d4037;
+}
+.estilo{
+    text-align:justify;
+}
+i{
+    color:#5d4037;
+
+}
+h4,h5{
+    font-family: 'Times New Roman', Times, serif;
+    color:#5d4037;
+}
+.efeito{
+    color:red;
+}
+@media only screen and (max-width: 1006px) {
+   
+.logo img{
+    width: 50%;
+    text-align: center!important;
+}
+}
+@media only screen and (max-width: 600px) {
+iframe{
+    width: 300px;
+    height: 250px;
+}
+.logo img{
+    width: 50%;
+    text-align: center!important;
+}
+}
