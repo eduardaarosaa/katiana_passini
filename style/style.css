@@ -26,6 +26,9 @@ h4,h5{
 .efeito{
     color:red;
 }
+.nav-menu{
+    color:#fff;
+}
 @media only screen and (max-width: 1006px) {
    
 .logo img{
